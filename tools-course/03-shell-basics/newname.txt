@@ -1,0 +1,2 @@
+This > command can overwrite the file
+This >> command can append the data in the file
